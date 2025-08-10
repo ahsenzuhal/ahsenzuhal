@@ -11,10 +11,9 @@
 
 ---
 
-##  Kullandığım Teknolojiler
+## 🛠️ Kullandığım Teknolojiler
 <p align="left">
   <img src="https://skillicons.dev/icons?i=arduino,python,java,raspberrypi" />
-  <img src="https://raw.githubusercontent.com/deneyap/deneyap-logo/main/deneyap_logo.png" alt="Deneyap" height="40" style="vertical-align: middle; margin-left: 10px;">
 </p>
 
 ---
