@@ -26,14 +26,4 @@
   <a href="mailto:ahsenzuhalg@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://ahsen.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"/>
-  </a>
 </p>
-
-
-## 🐍 Commit Aktivitem
-![Snake animation](https://github.com/ahzenuzuhal/ahzenuzuhal/blob/output/github-contribution-grid-snake.svg)
-
----
-
