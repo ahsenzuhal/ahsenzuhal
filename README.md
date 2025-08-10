@@ -3,7 +3,7 @@
 
 ---
 
-## 🌟 Hakkımda
+##  Hakkımda
 - 🎓 Karadeniz Teknik Üniversitesi **Yazılım Mühendisliği** öğrencisiyim.  
 - 🤖 **Yapay zeka**, **robotik** ve **gömülü sistemler** üzerine çalışıyorum.  
 - 🔬 Otonom sistemler, sensör verileri işleme ve PID kontrol konularında deneyimliyim.  
@@ -11,9 +11,10 @@
 
 ---
 
-## 🛠️ Kullandığım Teknolojiler
+##  Kullandığım Teknolojiler
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,arduino,git,github,linux,raspberrypi,opencv,matlab" />
+  <img src="https://skillicons.dev/icons?i=arduino,python,java,raspberrypi" />
+  <img src="https://raw.githubusercontent.com/deneyap/deneyap-logo/main/deneyap_logo.png" alt="Deneyap" height="40" style="vertical-align: middle; margin-left: 10px;">
 </p>
 
 ---
