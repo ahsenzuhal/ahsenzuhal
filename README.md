@@ -18,21 +18,6 @@
 
 ---
 
-## 📈 GitHub İstatistiklerim
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahzenuzhal&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahzenuzhal&layout=compact&theme=tokyonight" height="165">
-</p>
-
----
-
-## 🚀 Öne Çıkan Projelerim
-- 🔹 **[line-following-robot-pid](https://github.com/ahzenuzhal/line-following-robot-pid)** – Görüntü işleme & PID kontrol ile çizgi takip robotu.  
-- 🔹 **[turkish-address-parser](https://github.com/ahzenuzhal/turkish-address-parser)** – Fuzzy matching ile Türkçe adres çözümleme modeli.  
-- 🔹 **[rov-underwater-navigation](https://github.com/ahzenuzhal/rov-underwater-navigation)** – DVL & IMU tabanlı su altı ROV navigasyonu.  
-
----
-
 ## 🌐 Bana Ulaşın
 <p align="left">
   <a href="[https://linkedin.com/in/ahsen](https://www.linkedin.com/in/ahsen-z%C3%BChal-g%C3%B6l-79962228a/)" target="_blank">
