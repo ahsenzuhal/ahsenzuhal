@@ -20,7 +20,7 @@
 
 ## 🌐 Bana Ulaşın
 <p align="left">
-  <a href="[https://linkedin.com/in/ahsen](https://www.linkedin.com/in/ahsen-z%C3%BChal-g%C3%B6l-79962228a/)" target="_blank">
+  <a href="https://www.linkedin.com/in/ahsen-z%C3%BChal-g%C3%B6l-79962228a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ahsenzuhalg@gmail.com">
@@ -31,10 +31,9 @@
   </a>
 </p>
 
----
 
 ## 🐍 Commit Aktivitem
-![Snake animation](https://github.com/ahzenuzhal/ahzenuzhal/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ahzenuzuhal/ahzenuzuhal/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
