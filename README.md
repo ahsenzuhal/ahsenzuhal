@@ -46,13 +46,6 @@ Karadeniz Teknik Üniversitesi'nde Yazılım Mühendisliği eğitimime devam etm
 
 ---
 
-### GitHub İstatistikleri
-
-![Ahsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsenzuhal&show_icons=true&theme=transparent&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsenzuhal&layout=compact&theme=transparent&hide_border=true)
-
----
-
 ### İletişim
 
 * LinkedIn: [linkedin.com/in/ahsen-zuhal-gol](https://www.linkedin.com/in/ahsen-z%C3%BChal-g%C3%B6l-79962228a/)
