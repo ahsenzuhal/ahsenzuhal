@@ -1,10 +1,7 @@
-<h1 align="center">👋 Merhaba, Ben Ahsen</h1>
-<h3 align="center">Software Engineering Student @KTU | AI & Robotics Enthusiast | Embedded Systems Developer</h3>
+<h1 align="center">Ahsen Zühal Göl</h1>
+<h3 align="center">Yazılım Mühendisliği Öğrencisi | Gömülü Sistemler ve Otonom Araç Geliştiricisi</h3>
 
-# Ahsen Zühal Göl
-### Yazılım Mühendisi Adayı | Gömülü Sistemler ve Robotik Araştırmacısı
-
-Karadeniz Teknik Üniversitesi'nde Yazılım Mühendisliği eğitimime devam etmekteyim. Çalışmalarımı düşük seviyeli programlama, donanım-yazılım entegrasyonu ve otonom sistemler üzerine yoğunlaştırdım. Teknik projelerde kompleks problemleri optimize edilmiş yazılım çözümleriyle gidermeye odaklanıyorum.
+Karadeniz Teknik Üniversitesi'nde Yazılım Mühendisliği eğitimime devam etmekteyim. Çalışmalarımı düşük seviyeli programlama, donanım-yazılım entegrasyonu ve otonom sistemler üzerine yoğunlaştırdım. Hava savunma sistemleri ve ROV gibi kompleks projelerde, optimize edilmiş yazılım çözümleri geliştirmeye odaklanıyorum.
 
 ---
 
@@ -17,7 +14,7 @@ Karadeniz Teknik Üniversitesi'nde Yazılım Mühendisliği eğitimime devam etm
 **Gömülü Sistemler ve Donanım**
 * Platformlar: NVIDIA Jetson, STM32 (ARM Cortex), Arduino, Raspberry Pi
 * Protokoller: I2C, SPI, UART, PWM
-* Araçlar: STM32CubeIDE, Proteus, Linux (Ubuntu)
+* Araçlar: STM32CubeIDE, Proteus, Linux (Ubuntu), ROS (Robot Operating System)
 
 **Yazılım Geliştirme Araçları**
 * Versiyon Kontrol: Git, GitHub
@@ -27,13 +24,13 @@ Karadeniz Teknik Üniversitesi'nde Yazılım Mühendisliği eğitimime devam etm
 
 ### Projeler ve Uygulanan Teknolojiler
 
-#### Kütüphane Yönetim Sistemi
-* Teknolojiler: Java, MySQL, OOP Prensipleri
-* Detay: Veritabanı yönetim sistemleri ve kullanıcı yetkilendirme algoritmaları üzerine kurgulanmıştır. CRUD operasyonlarının performanslı çalışması ve veri bütünlüğü üzerine optimize edilmiştir.
+#### İnsansız Su Altı Aracı (ROV) ve Otonom Sistemler
+* Teknolojiler: C++, Python, ROS, Jetson Nano
+* Detay: Su altı araçları için kontrol algoritmaları, telemetri sistemleri ve sensör füzyonu üzerine çalışmalar. Görüntü işleme tabanlı otonom görev icrası ve donanım kontrolü.
 
 #### Gömülü Sistem Kontrol Çalışmaları
-* Teknolojiler: C, C++, Arduino, STM32, Jetson
-* Detay: Sensör verilerinin işlenmesi, motor sürücü kontrolü ve gerçek zamanlı sistem mantığı üzerine çalışmalar. Donanım kesmeleri ve zamanlayıcı yapıları kullanılarak sistem verimliliği artırılmıştır.
+* Teknolojiler: C, C++, Arduino, STM32
+* Detay: Sensör verilerinin işlenmesi, motor sürücü kontrolü ve gerçek zamanlı sistem mantığı. Donanım kesmeleri ve zamanlayıcı yapıları ile sistem optimizasyonu.
 
 #### Veri Analitiği ve Algoritma Geliştirme
 * Teknolojiler: Python, NumPy, Pandas
@@ -44,8 +41,8 @@ Karadeniz Teknik Üniversitesi'nde Yazılım Mühendisliği eğitimime devam etm
 ### Eğitim ve Organizasyonel Deneyim
 
 * Karadeniz Teknik Üniversitesi: Yazılım Mühendisliği (Lisans)
-* IEEE KTU Computer Society: Teknik Ekip Üyeliği ve Proje Geliştirme
-* IEEE KTU Robotics & Automation Society: Donanım ve Yazılım Koordinasyonu
+* KTU KORTEX Takımı: Ekip Yöneticisi ve Güvenlik Sistemleri Geliştiricisi
+* KTU AKAY Takımı: Teknik Ekip Üyesi ve Yazılım Geliştirici
 
 ---
 
