@@ -4,46 +4,38 @@ Karadeniz Teknik Üniversitesi'nde Yazılım Mühendisliği eğitimime devam etm
 
 ---
 
-### Teknik Yetkinlik Alanları
+### **Technical Proficiencies**
 
-**Programlama Dilleri ve Temel Kavramlar**
-* Diller: C, C++, Python, Java
-* Yazılım Prensipleri: Nesne Yönelimli Programlama (OOP), Veri Yapıları, Algoritma Analizi
+**Programming Languages & Core Concepts**
+* **Languages:** C, C++, Python, Java
+* **Core Principles:** Object-Oriented Programming (OOP), Data Structures, Algorithm Analysis
 
-**Gömülü Sistemler ve Donanım**
-* Platformlar: NVIDIA Jetson, STM32 (ARM Cortex), Arduino, Raspberry Pi
-* Protokoller: I2C, SPI, UART, PWM
-* Araçlar: STM32CubeIDE, Proteus, Linux (Ubuntu), ROS (Robot Operating System)
+**Embedded Systems & Hardware**
+* **Platforms:** NVIDIA Jetson Orin Nano, STM32 (ARM Cortex), Arduino, Raspberry Pi
+* **Protocols:** I2C, SPI, UART, PWM
+* **Tools & Environment:** STM32CubeIDE, Proteus, Linux (Ubuntu), ROS (Robot Operating System)
 
-**Yazılım Geliştirme Araçları**
-* Versiyon Kontrol: Git, GitHub
-* Veritabanı: MySQL, SQL Sorgu Optimizasyonu
+**Software Development & AI Tools**
+* **AI & Computer Vision:** YOLO, PyTorch, OpenCV
+* **Engineering & Simulation:** SolidWorks (Flow Simulation)
+* **Version Control:** Git, GitHub
+* **Database:** MySQL, SQL Query Optimization
 
 ---
 
-### Projeler ve Uygulanan Teknolojiler
+### Projects
 
 ### Computer Vision & AI  
 - Real-time object and movement detection with YOLO, MediaPipe and OpenCV  
-  
-
-
 
 ### Robotics  
 - Underwater vehicle (ROV) design, mechanical assembly, and SolidWorks flow simulations.
-  
-  
-
 - Autonomous and manual guidance, motion algorithms  
   
-
-
-
 ### Backend Development  
 - Building scalable systems with Java Spring Boot and MySQL.  
-  
 
-<br/>  
+---
 
 
 ## My Skill Set  
@@ -62,14 +54,6 @@ Karadeniz Teknik Üniversitesi'nde Yazılım Mühendisliği eğitimime devam etm
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
 
 </td></tr></table>  
 
