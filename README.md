@@ -1,5 +1,4 @@
-<h1 align="center">Ahsen Zühal Göl</h1>
-<h3 align="center">Yazılım Mühendisliği Öğrencisi | Gömülü Sistemler ve Otonom Araç Geliştiricisi</h3>
+### <div align="center">Software Engineering Student | Robotics & AI Enthusiast</div>  
 
 Karadeniz Teknik Üniversitesi'nde Yazılım Mühendisliği eğitimime devam etmekteyim. Çalışmalarımı düşük seviyeli programlama, donanım-yazılım entegrasyonu ve otonom sistemler üzerine yoğunlaştırdım. Hava savunma sistemleri ve ROV gibi kompleks projelerde, optimize edilmiş yazılım çözümleri geliştirmeye odaklanıyorum.
 
@@ -24,18 +23,57 @@ Karadeniz Teknik Üniversitesi'nde Yazılım Mühendisliği eğitimime devam etm
 
 ### Projeler ve Uygulanan Teknolojiler
 
-#### İnsansız Su Altı Aracı (ROV) ve Otonom Sistemler
-* Teknolojiler: C++, Python, ROS, Jetson Nano
-* Detay: Su altı araçları için kontrol algoritmaları, telemetri sistemleri ve sensör füzyonu üzerine çalışmalar. Görüntü işleme tabanlı otonom görev icrası ve donanım kontrolü.
+### Computer Vision & AI  
+- Real-time object and movement detection with YOLO, MediaPipe and OpenCV  
+  
 
-#### Gömülü Sistem Kontrol Çalışmaları
-* Teknolojiler: C, C++, Arduino, STM32
-* Detay: Sensör verilerinin işlenmesi, motor sürücü kontrolü ve gerçek zamanlı sistem mantığı. Donanım kesmeleri ve zamanlayıcı yapıları ile sistem optimizasyonu.
 
-#### Veri Analitiği ve Algoritma Geliştirme
-* Teknolojiler: Python, NumPy, Pandas
-* Detay: Veri setlerinin analizi ve temel görüntü işleme algoritmalarının gömülü sistemlere entegrasyonu üzerine prototip çalışmalar.
 
+### Robotics  
+- Underwater vehicle (ROV) design, mechanical assembly, and SolidWorks flow simulations.
+  
+  
+
+- Autonomous and manual guidance, motion algorithms  
+  
+
+
+
+### Backend Development  
+- Building scalable systems with Java Spring Boot and MySQL.  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+<div align="center">  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
+<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+</td><td valign="top" width="33%">
+
+
+
+</td></tr></table>  
+
+<br/>  
 ---
 
 ### Eğitim ve Organizasyonel Deneyim
