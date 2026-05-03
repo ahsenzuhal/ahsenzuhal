@@ -58,7 +58,6 @@ Karadeniz Teknik Üniversitesi'nde Yazılım Mühendisliği eğitimime devam etm
 </td></tr></table>  
 
 <br/>  
----
 
 ### Eğitim ve Organizasyonel Deneyim
 
