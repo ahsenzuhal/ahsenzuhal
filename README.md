@@ -1,25 +1,8 @@
 ### <div align="center">Software Engineering Student | Robotics & AI Enthusiast</div>  
 
-Karadeniz Teknik Üniversitesi'nde Yazılım Mühendisliği eğitimime devam etmekteyim. Çalışmalarımı düşük seviyeli programlama, donanım-yazılım entegrasyonu ve otonom sistemler üzerine yoğunlaştırdım. Hava savunma sistemleri ve ROV gibi kompleks projelerde, optimize edilmiş yazılım çözümleri geliştirmeye odaklanıyorum.
+Karadeniz Teknik Üniversitesi'nde Yazılım Mühendisliği eğitimime devam etmekteyim. Çalışmalarımı düşük seviyeli programlama, donanım-yazılım entegrasyonu ve otonom sistemler üzerine yoğunlaştırdım. ROV gibi kompleks projelerde, optimize edilmiş yazılım çözümleri geliştirmeye odaklanıyorum.
 
 ---
-
-### **Technical Proficiencies**
-
-**Programming Languages & Core Concepts**
-* **Languages:** C, C++, Python, Java
-* **Core Principles:** Object-Oriented Programming (OOP), Data Structures, Algorithm Analysis
-
-**Embedded Systems & Hardware**
-* **Platforms:** NVIDIA Jetson Orin Nano, STM32 (ARM Cortex), Arduino, Raspberry Pi
-* **Protocols:** I2C, SPI, UART, PWM
-* **Tools & Environment:** STM32CubeIDE, Proteus, Linux (Ubuntu), ROS (Robot Operating System)
-
-**Software Development & AI Tools**
-* **AI & Computer Vision:** YOLO, PyTorch, OpenCV
-* **Engineering & Simulation:** SolidWorks (Flow Simulation)
-* **Version Control:** Git, GitHub
-* **Database:** MySQL, SQL Query Optimization
 
 ---
 
@@ -30,10 +13,7 @@ Karadeniz Teknik Üniversitesi'nde Yazılım Mühendisliği eğitimime devam etm
 
 ### Robotics  
 - Underwater vehicle (ROV) design, mechanical assembly, and SolidWorks flow simulations.
-- Autonomous and manual guidance, motion algorithms  
-  
-### Backend Development  
-- Building scalable systems with Java Spring Boot and MySQL.  
+- Autonomous and manual guidance, motion algorithms 
 
 ---
 
@@ -59,12 +39,8 @@ Karadeniz Teknik Üniversitesi'nde Yazılım Mühendisliği eğitimime devam etm
 
 <br/>  
 
-### Eğitim ve Organizasyonel Deneyim
-
+### Eğitim
 * Karadeniz Teknik Üniversitesi: Yazılım Mühendisliği (Lisans)
-* KTU KORTEX Takımı: Ekip Yöneticisi ve Güvenlik Sistemleri Geliştiricisi
-* KTU AKAY Takımı: Teknik Ekip Üyesi ve Yazılım Geliştirici
-
 ---
 
 ### İletişim
