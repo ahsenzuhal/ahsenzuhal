@@ -2,9 +2,6 @@
 
 Karadeniz Teknik Üniversitesi'nde Yazılım Mühendisliği eğitimime devam etmekteyim. Çalışmalarımı düşük seviyeli programlama, donanım-yazılım entegrasyonu ve otonom sistemler üzerine yoğunlaştırdım. ROV gibi kompleks projelerde, optimize edilmiş yazılım çözümleri geliştirmeye odaklanıyorum.
 
----
-
----
 
 ### Projects
 
