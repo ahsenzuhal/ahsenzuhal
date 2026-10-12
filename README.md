@@ -1,7 +1,6 @@
-### <div align="center">Software Engineering Student | Robotics & AI Enthusiast</div>  
+### <div align="center">Software Engineering Student | Software & Robotics</div>  
 
-Karadeniz Teknik Üniversitesi'nde Yazılım Mühendisliği eğitimime devam etmekteyim. Çalışmalarımı düşük seviyeli programlama, donanım-yazılım entegrasyonu ve otonom sistemler üzerine yoğunlaştırdım. ROV gibi kompleks projelerde, optimize edilmiş yazılım çözümleri geliştirmeye odaklanıyorum.
-
+Karadeniz Teknik Üniversitesi'nde Yazılım Mühendisliği eğitimime devam etmekteyim. Çalışmalarımı  donanım-yazılım entegrasyonu, otonom sistemler üzerine yoğunlaştırdım. ROV, UAV gibi kompleks projelerde, optimize edilmiş yazılım çözümleri geliştirmeye odaklanıyorum.
 
 ### Projects
 
